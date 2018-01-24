@@ -1,0 +1,7 @@
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.exe.config
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.exe
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\bin\Debug\fastPixelPlot.pdb
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.Properties.Resources.resources
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.csproj.GenerateResource.Cache
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.exe
+F:\Projects\WindowsApplication\fastPixelPlot\fastPixelPlot\obj\Debug\fastPixelPlot.pdb

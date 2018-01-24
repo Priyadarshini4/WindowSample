@@ -1,0 +1,16 @@
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe.config
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.pdb
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csprojResolveAssemblyReference.cache
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.Properties.Resources.resources
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csproj.GenerateResource.Cache
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.exe
+E:\BlogSourceCode\Graphics Algorithm\Graphics3Dto2D\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.pdb
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe.config
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.exe
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.pdb
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.exe
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\bin\Debug\Graphics3Dto2D.pdb
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csprojResolveAssemblyReference.cache
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.Properties.Resources.resources
+F:\Projects\WindowsApplication\Graphics3Dto2D-master\Graphics3Dto2D\obj\Debug\Graphics3Dto2D.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\bin\Debug\DrawBasic.exe.config
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\bin\Debug\DrawBasic.exe
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\bin\Debug\DrawBasic.pdb
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\obj\Debug\DrawBasic.Properties.Resources.resources
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\obj\Debug\DrawBasic.csproj.GenerateResource.Cache
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\obj\Debug\DrawBasic.exe
+F:\Projects\WindowsApplication\DrawBasic\DrawBasic\obj\Debug\DrawBasic.pdb
